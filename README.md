@@ -3,7 +3,7 @@
 
 * I am an **Applied Chemistry** student studying in Chulalongkorn University
 * My side job is [**drawing art**](https://x.com/divergentdraco) and do [**commissions**](https://x.com/DivergentDraco/status/1854841653015855372)
-* I have also been working on a hobby game project, UI design, and help contribute to improving [**Sri Sangwan School**](http://www.swn.ac.th/)
+* I have also been working on a hobby game project, UI design and studying nooks and crannies of Computer Science
 
 🗿 Glad that you found this, I'm still building the place
 
